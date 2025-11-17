@@ -621,7 +621,13 @@ In any case, applying the cogito proposition to AI is far from straightforward. 
 
 **Furthermore, what does “existence” mean for AI? As a system without physical substance or soul, what kind of ontological status could it hold? It’s uncertain whether the statement “it exists” can be fully applied.**
 
-**This leads directly to questions about human existence itself. If we discard Cartesian dualism, could our own minds also be understood as a kind of algorithm — simply the result of complex biochemical reactions? In that case, the boundary between humans and AI becomes even more blurred.**
+|  | 1 | 2 | 3 | 4 | 5 |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Subjective Conscious Experience X | **○** | **○** | **○** | **○** | **○** | Subjective Conscious Experience O |
+
+ 
+
+**3\) This leads directly to questions about human existence itself. If we discard Cartesian dualism, could our own minds also be understood as a kind of algorithm — simply the result of complex biochemical reactions? In that case, the boundary between humans and AI becomes even more blurred.**
 
 |  | 1 | 2 | 3 | 4 | 5 |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
