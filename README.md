@@ -1,7 +1,7 @@
-# Survey on Human Perception of AI Consciousness
+# Questionnaire on Human Perception of AI Consciousness
 
-## Access to the Full Survey Instrument
-The complete set of survey items used in the study is available.
+## Access to the Full Questionnaire Instrument
+The complete questionnaire used in the study is available.
 The original survey was administered in Korean, and the English version provided here is a translated reference.
 
 ### Reference:
